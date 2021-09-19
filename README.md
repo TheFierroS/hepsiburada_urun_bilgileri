@@ -4,7 +4,7 @@ Not: header kısmına kendi user agentinizi girmeniz gerek yoksa site 503 kodu d
 
 Nasıl user agentinize erişeceğinizi bilmiyorsanız rastgele bi sayfaya sağ tıklayıp incele deyin ordan ağ sekmesine gelip başında post yazan herhangi birine bir kere tıklayın yan tarafta biraz aşşağı kaydırdıktan sonra user agentinizi göreceksiniz.
 
-Anlamadıysanız Şu Fotografa Göz Atın -> ![What is this](img.png)
+↓ Anlamadıysanız Şu Fotografa Göz Atın ↓ ![What is this](img.png)
 
 İyi Kullanımlar :)
 
