@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 #header kısmına kendi user agentinizi girmeniz gerek yoksa siteden veri çekilmiyor.
-header = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"}
+header = {"User-Agent":""} #kendi user agentinizi giriniz
 link = input("Ürünün Linkini Giriniz -> ")
 r = requests.get(link, headers=header)
 soup = BeautifulSoup(r.content ,"lxml")
